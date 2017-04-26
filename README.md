@@ -1,6 +1,6 @@
 # MIMIMI
 
-Created by [@PhoenixAlx](https://github.com/PhoenixAlx/). Check it out at [MIMIMI](https://github.com/PhoenixAlx/Mimimi)
+Created by [@PhoenixAlx](https://github.com/PhoenixAlx/). Check it out at [MIMIMI](https://phoenixalx.github.io/Mimimi/)
 
 ## Changes
 
